@@ -1,2 +1,8 @@
-# darkside_disc_recording_system
- 
+# <b>Darkside_Disc_Recording_Systems</b>
+ダークサイド　レコードカッティングマシン<br>
+見た目がダースベーダーに見えることから命名。レコードカッティングマシンの製作ログ<br>
+基本はオープンソース
+## 構成
+
+カッティングヘッド
+レース
