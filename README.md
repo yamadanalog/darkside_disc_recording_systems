@@ -10,8 +10,13 @@
  - カッティング針
  - 熱線
  - v spring
- - feedback
+ - feedback coil
+ - drive coil
  - 針圧アジャスター
--レース
+- レース
  - アーム (x軸)
  - アーム (y軸)
+- アンプ
+ - RIAA/IRIAA
+ - feedback
+- スタイラスヒーティング(熱線)
